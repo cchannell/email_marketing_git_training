@@ -1,2 +1,2 @@
 # email_marketing_git_training
-Email marketing git training
+this is just some practice to teach git
